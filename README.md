@@ -1,9 +1,7 @@
 ## Hi 👋, I'm Raksmey.
 ### :technologist: About Me :
-- :telescope: I'm working as a [Your Position] and contributing to [Your Focus Areas]
-- :seedling: Exploring [Your Interests]
-- :zap: In my free time, I [Your Hobbies]
-- :mailbox: How to reach me: [Your Email]
+- :seedling: I'm interested in Software Engineering.
+- :mailbox: How to reach me: [rsmey8373@gmail.com]
 
 
 <!--
