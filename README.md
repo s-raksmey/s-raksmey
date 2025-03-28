@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Raksmey.
-### :technologist: About Me :
 - :seedling: I'm interested in Software Engineering.
 - :mailbox: How to reach me: rsmey8373@gmail.com
 
