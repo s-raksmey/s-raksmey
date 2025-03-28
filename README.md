@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Raksmey.
+### :technologist: About Me :
+- :telescope: I'm working as a [Your Position] and contributing to [Your Focus Areas]
+- :seedling: Exploring [Your Interests]
+- :zap: In my free time, I [Your Hobbies]
+- :mailbox: How to reach me: [Your Email]
+
 
 <!--
 **s-raksmey/s-raksmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
